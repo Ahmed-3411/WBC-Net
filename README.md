@@ -3,9 +3,12 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-Framework-red.svg)](https://keras.io/)
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-
+[![NumPy](https://img.shields.io/badge/NumPy-1.19%2B-lightgrey.svg)](https://numpy.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-blue.svg)](https://opencv.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4%2B-orange.svg)](https://matplotlib.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-lightgrey.svg)](https://scikit-learn.org/)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![GPU](https://img.shields.io/badge/GPU-Enabled-green.svg)](https://www.nvidia.com/)
 A deep learning project implementing a Convolutional Neural Network (CNN) for automated classification of white blood cells from microscopic images, achieving 95% accuracy across five cell types.
 
 
