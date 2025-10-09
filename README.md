@@ -85,12 +85,18 @@ Input (128x128x3)
 
 ## 📈 Performance
 
-| Metric | Score |
-|--------|--------|
-| Training Accuracy | 93.73% |
-| Validation Accuracy | 94.94% |
-| Test Accuracy | 95.00% |
-| Inference Time | <100ms |
+- **Confusion Matrix**  
+  ![Confusion Matrix](figures/Confusion%20Matrix.png)
+
+- **Class Distribution**  
+  ![Feature Heatmap](figures/Training%20Data%20Class%20Distribution.png)
+
+- **Predicted class Neutrophil**  
+  ![Operating Characteristic](figures/Predicted%20class%20Neutrophil.png)
+
+  - **Visualizing model predictions**  
+  ![Operating Characteristic](figures/Visualizing%20model%20predictions.png)
+---
 
 ## 🚀 Quick Start
 
