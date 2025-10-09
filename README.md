@@ -9,7 +9,6 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-lightgrey.svg)](https://scikit-learn.org/)
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 [![GPU](https://img.shields.io/badge/GPU-Enabled-green.svg)](https://www.nvidia.com/)
-A deep learning project implementing a Convolutional Neural Network (CNN) for automated classification of white blood cells from microscopic images, achieving 95% accuracy across five cell types.
 
 
 ##  Technologies Used
