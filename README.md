@@ -9,7 +9,7 @@
 A deep learning project implementing a Convolutional Neural Network (CNN) for automated classification of white blood cells from microscopic images, achieving 95% accuracy across five cell types.
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Core Technologies
 - **[Python](https://www.python.org/)** - Primary programming language
@@ -23,7 +23,7 @@ A deep learning project implementing a Convolutional Neural Network (CNN) for au
 - **[Matplotlib](https://matplotlib.org/)** - Visualization
 - **[Scikit-learn](https://scikit-learn.org/)** - Model evaluation
 
-## 🚀 Features
+##  Features
 
 - **Advanced Image Processing**
   - Automatic image resizing (128x128)
@@ -49,7 +49,7 @@ A deep learning project implementing a Convolutional Neural Network (CNN) for au
   - Per-class accuracy metrics
   - Real-time prediction visualization
 
-## 🏗️ Model Architecture
+##  Model Architecture
 
 ```
 Input (128x128x3)
@@ -98,7 +98,7 @@ Input (128x128x3)
   ![Operating Characteristic](figures/Visualizing%20model%20predictions.png)
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Open in Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M-Husnain-Ali/White-Blood-Cell-Classification/blob/main/code.ipynb)
@@ -125,7 +125,7 @@ drive.mount('/content/drive')
 !python train.py --epochs 10 --batch_size 32
 ```
 
-## 📦 Requirements
+##  Requirements
 
 ```
 tensorflow>=2.8.0
@@ -135,7 +135,7 @@ matplotlib>=3.4.3
 scikit-learn>=1.0.2
 ```
 
-## 💡 Usage Tips
+##  Usage Tips
 
 ### Training
 - Use GPU runtime in Colab
