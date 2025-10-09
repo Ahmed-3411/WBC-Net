@@ -69,7 +69,7 @@ Input (128x128x3)
 └── Output(5) → Softmax
 ```
 
-## 📊 Dataset
+##  Dataset
 
 - **Source**: [White Blood Cells Dataset](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)
 - **Classes**: 5 WBC types
