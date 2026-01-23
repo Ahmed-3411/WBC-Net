@@ -154,7 +154,7 @@ python evaluate.py --weights best_model.h5
 If you use WBC-Net in your research, please cite:
 
 ```
-Ahmed Talaat Mersal et al.   
+Ahmed T. Mersal et al.   
 WBC-Net: A Convolutional Neural Network for Automated White Blood Cell Classification.  
 TechRxiv, 2025.  
 DOI: 10.36227/techrxiv.176282158.83951263/v1
