@@ -1,4 +1,4 @@
-# WBC-Net: A Convolutional Neural Network for Automated White Blood Cell Classificatio
+# WBC-Net: A Convolutional Neural Network for Automated White Blood Cell Classification
 
 [![Paper](https://img.shields.io/badge/Paper-TechRxiv-brightgreen)](LINK_TO_TECHRXIV_PAGE)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
